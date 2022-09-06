@@ -47,7 +47,7 @@ header nav a:hover{
     font-size: 20px;
     background:linear-gradient(rgba(0,0,0,0.50), rgba(0,0,0,.50)100%), url('../img/b99capa.jpg');
 
-    height: 500px;
+    height: 550px;
     background-size: cover;
 
     display: flex;
